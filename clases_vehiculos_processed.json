@@ -1,0 +1,1236 @@
+{
+  "processed_ids": [
+    "d75446d0-c106-40e6-a995-a3fd1d801a47_FIAT_MOBI_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "d75446d0-c106-40e6-a995-a3fd1d801a47_HYUNDAI_NEW TUCSON_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "d75446d0-c106-40e6-a995-a3fd1d801a47_KIA_CARENS_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "d75446d0-c106-40e6-a995-a3fd1d801a47_KIA_RIO_7c6fda73-9474-4828-afac-efbb861a7eae_7ecd2098-5f55-41f3-b441-ad835783b7d2",
+    "d75446d0-c106-40e6-a995-a3fd1d801a47_NISSAN_SENTRA_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "d75446d0-c106-40e6-a995-a3fd1d801a47_TOYOTA_CAROLLA_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "d75446d0-c106-40e6-a995-a3fd1d801a47_TOYOTA_COROLLA_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "d75446d0-c106-40e6-a995-a3fd1d801a47_TOYOTA_COROLLA TERCEL_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "d75446d0-c106-40e6-a995-a3fd1d801a47_TOYOTA_AGYA_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "63fdf0e3-b616-49e3-927c-234f15f9e7e4_HYUNDAI_FHD35_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "63fdf0e3-b616-49e3-927c-234f15f9e7e4_HYUNDAI_HD78_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "63fdf0e3-b616-49e3-927c-234f15f9e7e4_JMC_VIGUS_7c6fda73-9474-4828-afac-efbb861a7eae_4ee9cad3-0999-443d-b956-b1d74df7dbc2",
+    "63fdf0e3-b616-49e3-927c-234f15f9e7e4_KIA_K2500_7c6fda73-9474-4828-afac-efbb861a7eae_4ee9cad3-0999-443d-b956-b1d74df7dbc2",
+    "63fdf0e3-b616-49e3-927c-234f15f9e7e4_KIA_K2500_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "63fdf0e3-b616-49e3-927c-234f15f9e7e4_ISUZU_NPR75L-HL5VAYPEN_7c6fda73-9474-4828-afac-efbb861a7eae_4ee9cad3-0999-443d-b956-b1d74df7dbc2",
+    "63fdf0e3-b616-49e3-927c-234f15f9e7e4_JAC_HFC1120KN_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "63fdf0e3-b616-49e3-927c-234f15f9e7e4_JAC_S2_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "63fdf0e3-b616-49e3-927c-234f15f9e7e4_JAC_T8_7c6fda73-9474-4828-afac-efbb861a7eae_4ee9cad3-0999-443d-b956-b1d74df7dbc2",
+    "63fdf0e3-b616-49e3-927c-234f15f9e7e4_JAC_HFC1083KN_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "63fdf0e3-b616-49e3-927c-234f15f9e7e4_JAC_JS2_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "63fdf0e3-b616-49e3-927c-234f15f9e7e4_JAC_JS4_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "63fdf0e3-b616-49e3-927c-234f15f9e7e4_MAZDA_NEW BT - 50_7c6fda73-9474-4828-afac-efbb861a7eae_4ee9cad3-0999-443d-b956-b1d74df7dbc2",
+    "63fdf0e3-b616-49e3-927c-234f15f9e7e4_MAZDA_BT-50_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "63fdf0e3-b616-49e3-927c-234f15f9e7e4_MAZDA_NEW BT - 50_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "63fdf0e3-b616-49e3-927c-234f15f9e7e4_MITSUBISHI_L200_7c6fda73-9474-4828-afac-efbb861a7eae_4ee9cad3-0999-443d-b956-b1d74df7dbc2",
+    "63fdf0e3-b616-49e3-927c-234f15f9e7e4_TOYOTA_HILUX_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "63fdf0e3-b616-49e3-927c-234f15f9e7e4_TOYOTA_DYNA_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "3a4f99e5-342f-4b18-8d8b-43f2032fc2d8_JEEP_COMPASS SPORT_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "3a4f99e5-342f-4b18-8d8b-43f2032fc2d8_JEEP_COMPASS LONGITUDE_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "20178957-f017-4d5b-a828-2222bc451594_ZONGSHEN_SPEX150_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c3f85c43-94b0-4a66-8016-840d690457bb_FORD_RANGER_7c6fda73-9474-4828-afac-efbb861a7eae_4ee9cad3-0999-443d-b956-b1d74df7dbc2",
+    "c3f85c43-94b0-4a66-8016-840d690457bb_HYUNDAI_H100 TRUCK_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_AUDI_Q3_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_AUDI_Q7 3.6 FSI QUATTRO TIPTRONIC/20_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_CHANGAN_CS35_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_CHANGAN_CS15_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_CHERY_TIGGO 4 PRO_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_CHERY_TIGO 4 PRO_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_CHERY_TIGGO 7 PRO_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_CHEVROLET_CAPTIVA_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_CHEVROLET_TRACKER_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_DFSK_GLORY_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_GEELY_OKAVANGO_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_HONDA_CRV_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_HYUNDAI_CRETA_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_JETOUR_X70_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_KIA_SONET_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_KIA_SELTOS_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_MAZDA_CX-30_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_MAZDA_CX-3_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_MAZDA_CX-5_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_MG_MGXZ_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_MITSUBISHI_ASX_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_MITSUBISHI_MONTERO_7c6fda73-9474-4828-afac-efbb861a7eae_4ee9cad3-0999-443d-b956-b1d74df7dbc2",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_MITSUBISHI_OUTLANDER_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_NISSAN_XTRAIL_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_NISSAN_KICKS_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_NISSAN_X-TRAIL_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_PEU GEOT_5008_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_RENAULT_DUSTER_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_SUBARU_FORESTER_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_SUBARU_CROSSFOX_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_SUBARU_XV_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_SUZUKI_JIMMY_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_TOYOTA_RUSH_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_TOYOTA_FORTUNER_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_TOYOTA_RAV 4_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_TOYOTA_RAIZER_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_TOYOTA_COROLLA CROSS_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_TOYOTA_COROLLA CROSS HYBRID_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_TOYOTA_RAV4_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_VOLKSWAGEN_NIVUS_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_VOLKSWAGEN_CROSSFOX_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_VOLKSWAGEN_T-CROOS_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_FORD_EXPLORER_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_HAVAL_NEW H6_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_JAC_JS8_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_JETOUR_DASHING_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_MAZDA_CX-60_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "c52ce19e-405a-40f5-bf97-c36fe95b143e_SUBARU_CROSSTREK_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+    "da06c6df-2a84-45da-9d86-1c23af5cfeea_JMC_GRAND AVENUE_7c6fda73-9474-4828-afac-efbb861a7eae_4ee9cad3-0999-443d-b956-b1d74df7dbc2",
+    "da06c6df-2a84-45da-9d86-1c23af5cfeea_TOYOTA_HIACE_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c"
+  ],
+  "records": [
+    {
+      "id": "d75446d0-c106-40e6-a995-a3fd1d801a47_FIAT_MOBI_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "d75446d0-c106-40e6-a995-a3fd1d801a47",
+        "Brand": "FIAT",
+        "Model": "MOBI",
+        "TheoricalConsumption": 18.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 10.57,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:49:40.023528"
+    },
+    {
+      "id": "d75446d0-c106-40e6-a995-a3fd1d801a47_HYUNDAI_NEW TUCSON_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "d75446d0-c106-40e6-a995-a3fd1d801a47",
+        "Brand": "HYUNDAI",
+        "Model": "NEW TUCSON",
+        "TheoricalConsumption": 13.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 15.9,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:49:41.252872"
+    },
+    {
+      "id": "d75446d0-c106-40e6-a995-a3fd1d801a47_KIA_CARENS_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "d75446d0-c106-40e6-a995-a3fd1d801a47",
+        "Brand": "KIA",
+        "Model": "CARENS",
+        "TheoricalConsumption": 13.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 14.5,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:49:42.447743"
+    },
+    {
+      "id": "d75446d0-c106-40e6-a995-a3fd1d801a47_KIA_RIO_7c6fda73-9474-4828-afac-efbb861a7eae_7ecd2098-5f55-41f3-b441-ad835783b7d2",
+      "data": {
+        "IdVehicleType": "d75446d0-c106-40e6-a995-a3fd1d801a47",
+        "Brand": "KIA",
+        "Model": "RIO",
+        "TheoricalConsumption": 17.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "7ecd2098-5f55-41f3-b441-ad835783b7d2",
+        "VolumeLimit": 11.62,
+        "Description": "Regular Diesel"
+      },
+      "processed_at": "2025-08-11T16:49:43.764281"
+    },
+    {
+      "id": "d75446d0-c106-40e6-a995-a3fd1d801a47_NISSAN_SENTRA_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "d75446d0-c106-40e6-a995-a3fd1d801a47",
+        "Brand": "NISSAN",
+        "Model": "SENTRA",
+        "TheoricalConsumption": 14.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 13.21,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:49:45.182440"
+    },
+    {
+      "id": "d75446d0-c106-40e6-a995-a3fd1d801a47_TOYOTA_CAROLLA_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "d75446d0-c106-40e6-a995-a3fd1d801a47",
+        "Brand": "TOYOTA",
+        "Model": "CAROLLA",
+        "TheoricalConsumption": 14.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 13.21,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:49:46.983451"
+    },
+    {
+      "id": "d75446d0-c106-40e6-a995-a3fd1d801a47_TOYOTA_COROLLA_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "d75446d0-c106-40e6-a995-a3fd1d801a47",
+        "Brand": "TOYOTA",
+        "Model": "COROLLA",
+        "TheoricalConsumption": 14.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 13.21,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:49:48.293438"
+    },
+    {
+      "id": "d75446d0-c106-40e6-a995-a3fd1d801a47_TOYOTA_COROLLA TERCEL_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "d75446d0-c106-40e6-a995-a3fd1d801a47",
+        "Brand": "TOYOTA",
+        "Model": "COROLLA TERCEL",
+        "TheoricalConsumption": 16.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 11.89,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:49:49.665163"
+    },
+    {
+      "id": "d75446d0-c106-40e6-a995-a3fd1d801a47_TOYOTA_AGYA_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "d75446d0-c106-40e6-a995-a3fd1d801a47",
+        "Brand": "TOYOTA",
+        "Model": "AGYA",
+        "TheoricalConsumption": 20.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 7.93,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:49:51.165041"
+    },
+    {
+      "id": "63fdf0e3-b616-49e3-927c-234f15f9e7e4_HYUNDAI_FHD35_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "63fdf0e3-b616-49e3-927c-234f15f9e7e4",
+        "Brand": "HYUNDAI",
+        "Model": "FHD35",
+        "TheoricalConsumption": 5.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 52.83,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:49:52.467574"
+    },
+    {
+      "id": "63fdf0e3-b616-49e3-927c-234f15f9e7e4_HYUNDAI_HD78_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "63fdf0e3-b616-49e3-927c-234f15f9e7e4",
+        "Brand": "HYUNDAI",
+        "Model": "HD78",
+        "TheoricalConsumption": 5.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 52.83,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:49:54.707628"
+    },
+    {
+      "id": "63fdf0e3-b616-49e3-927c-234f15f9e7e4_JMC_VIGUS_7c6fda73-9474-4828-afac-efbb861a7eae_4ee9cad3-0999-443d-b956-b1d74df7dbc2",
+      "data": {
+        "IdVehicleType": "63fdf0e3-b616-49e3-927c-234f15f9e7e4",
+        "Brand": "JMC",
+        "Model": "VIGUS",
+        "TheoricalConsumption": 9.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "4ee9cad3-0999-443d-b956-b1d74df7dbc2",
+        "VolumeLimit": 17.17,
+        "Description": "Diesel"
+      },
+      "processed_at": "2025-08-11T16:49:55.804281"
+    },
+    {
+      "id": "63fdf0e3-b616-49e3-927c-234f15f9e7e4_KIA_K2500_7c6fda73-9474-4828-afac-efbb861a7eae_4ee9cad3-0999-443d-b956-b1d74df7dbc2",
+      "data": {
+        "IdVehicleType": "63fdf0e3-b616-49e3-927c-234f15f9e7e4",
+        "Brand": "KIA",
+        "Model": "K2500",
+        "TheoricalConsumption": 9.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "4ee9cad3-0999-443d-b956-b1d74df7dbc2",
+        "VolumeLimit": 17.17,
+        "Description": "Diesel"
+      },
+      "processed_at": "2025-08-11T16:49:56.887641"
+    },
+    {
+      "id": "63fdf0e3-b616-49e3-927c-234f15f9e7e4_KIA_K2500_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "63fdf0e3-b616-49e3-927c-234f15f9e7e4",
+        "Brand": "KIA",
+        "Model": "K2500",
+        "TheoricalConsumption": 9.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 17.17,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:49:58.170731"
+    },
+    {
+      "id": "63fdf0e3-b616-49e3-927c-234f15f9e7e4_ISUZU_NPR75L-HL5VAYPEN_7c6fda73-9474-4828-afac-efbb861a7eae_4ee9cad3-0999-443d-b956-b1d74df7dbc2",
+      "data": {
+        "IdVehicleType": "63fdf0e3-b616-49e3-927c-234f15f9e7e4",
+        "Brand": "ISUZU",
+        "Model": "NPR75L-HL5VAYPEN",
+        "TheoricalConsumption": 4.5,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "4ee9cad3-0999-443d-b956-b1d74df7dbc2",
+        "VolumeLimit": 66.04,
+        "Description": "Diesel"
+      },
+      "processed_at": "2025-08-11T16:49:59.451819"
+    },
+    {
+      "id": "63fdf0e3-b616-49e3-927c-234f15f9e7e4_JAC_HFC1120KN_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "63fdf0e3-b616-49e3-927c-234f15f9e7e4",
+        "Brand": "JAC",
+        "Model": "HFC1120KN",
+        "TheoricalConsumption": 5.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 52.83,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:00.690505"
+    },
+    {
+      "id": "63fdf0e3-b616-49e3-927c-234f15f9e7e4_JAC_S2_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "63fdf0e3-b616-49e3-927c-234f15f9e7e4",
+        "Brand": "JAC",
+        "Model": "S2",
+        "TheoricalConsumption": 14.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 11.88,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:02.005392"
+    },
+    {
+      "id": "63fdf0e3-b616-49e3-927c-234f15f9e7e4_JAC_T8_7c6fda73-9474-4828-afac-efbb861a7eae_4ee9cad3-0999-443d-b956-b1d74df7dbc2",
+      "data": {
+        "IdVehicleType": "63fdf0e3-b616-49e3-927c-234f15f9e7e4",
+        "Brand": "JAC",
+        "Model": "T8",
+        "TheoricalConsumption": 10.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "4ee9cad3-0999-443d-b956-b1d74df7dbc2",
+        "VolumeLimit": 19.81,
+        "Description": "Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:03.174037"
+    },
+    {
+      "id": "63fdf0e3-b616-49e3-927c-234f15f9e7e4_JAC_HFC1083KN_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "63fdf0e3-b616-49e3-927c-234f15f9e7e4",
+        "Brand": "JAC",
+        "Model": "HFC1083KN",
+        "TheoricalConsumption": 5.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 52.83,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:04.510424"
+    },
+    {
+      "id": "63fdf0e3-b616-49e3-927c-234f15f9e7e4_JAC_JS2_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "63fdf0e3-b616-49e3-927c-234f15f9e7e4",
+        "Brand": "JAC",
+        "Model": "JS2",
+        "TheoricalConsumption": 14.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 11.88,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:05.775089"
+    },
+    {
+      "id": "63fdf0e3-b616-49e3-927c-234f15f9e7e4_JAC_JS4_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "63fdf0e3-b616-49e3-927c-234f15f9e7e4",
+        "Brand": "JAC",
+        "Model": "JS4",
+        "TheoricalConsumption": 13.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 13.2,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:08.038044"
+    },
+    {
+      "id": "63fdf0e3-b616-49e3-927c-234f15f9e7e4_MAZDA_NEW BT - 50_7c6fda73-9474-4828-afac-efbb861a7eae_4ee9cad3-0999-443d-b956-b1d74df7dbc2",
+      "data": {
+        "IdVehicleType": "63fdf0e3-b616-49e3-927c-234f15f9e7e4",
+        "Brand": "MAZDA",
+        "Model": "NEW BT - 50",
+        "TheoricalConsumption": 10.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "4ee9cad3-0999-443d-b956-b1d74df7dbc2",
+        "VolumeLimit": 19.81,
+        "Description": "Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:09.469815"
+    },
+    {
+      "id": "63fdf0e3-b616-49e3-927c-234f15f9e7e4_MAZDA_BT-50_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "63fdf0e3-b616-49e3-927c-234f15f9e7e4",
+        "Brand": "MAZDA",
+        "Model": "BT-50",
+        "TheoricalConsumption": 10.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 19.81,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:10.767585"
+    },
+    {
+      "id": "63fdf0e3-b616-49e3-927c-234f15f9e7e4_MAZDA_NEW BT - 50_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "63fdf0e3-b616-49e3-927c-234f15f9e7e4",
+        "Brand": "MAZDA",
+        "Model": "NEW BT - 50",
+        "TheoricalConsumption": 10.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 19.81,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:12.293567"
+    },
+    {
+      "id": "63fdf0e3-b616-49e3-927c-234f15f9e7e4_MITSUBISHI_L200_7c6fda73-9474-4828-afac-efbb861a7eae_4ee9cad3-0999-443d-b956-b1d74df7dbc2",
+      "data": {
+        "IdVehicleType": "63fdf0e3-b616-49e3-927c-234f15f9e7e4",
+        "Brand": "MITSUBISHI",
+        "Model": "L200",
+        "TheoricalConsumption": 9.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "4ee9cad3-0999-443d-b956-b1d74df7dbc2",
+        "VolumeLimit": 19.82,
+        "Description": "Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:13.781489"
+    },
+    {
+      "id": "63fdf0e3-b616-49e3-927c-234f15f9e7e4_TOYOTA_HILUX_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "63fdf0e3-b616-49e3-927c-234f15f9e7e4",
+        "Brand": "TOYOTA",
+        "Model": "HILUX",
+        "TheoricalConsumption": 10.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 21.13,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:15.095469"
+    },
+    {
+      "id": "63fdf0e3-b616-49e3-927c-234f15f9e7e4_TOYOTA_DYNA_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "63fdf0e3-b616-49e3-927c-234f15f9e7e4",
+        "Brand": "TOYOTA",
+        "Model": "DYNA",
+        "TheoricalConsumption": 5.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 26.42,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:16.355403"
+    },
+    {
+      "id": "3a4f99e5-342f-4b18-8d8b-43f2032fc2d8_JEEP_COMPASS SPORT_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "3a4f99e5-342f-4b18-8d8b-43f2032fc2d8",
+        "Brand": "JEEP",
+        "Model": "COMPASS SPORT",
+        "TheoricalConsumption": 12.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 13.73,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:17.569674"
+    },
+    {
+      "id": "3a4f99e5-342f-4b18-8d8b-43f2032fc2d8_JEEP_COMPASS LONGITUDE_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "3a4f99e5-342f-4b18-8d8b-43f2032fc2d8",
+        "Brand": "JEEP",
+        "Model": "COMPASS LONGITUDE",
+        "TheoricalConsumption": 12.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 13.73,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:18.966039"
+    },
+    {
+      "id": "20178957-f017-4d5b-a828-2222bc451594_ZONGSHEN_SPEX150_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "20178957-f017-4d5b-a828-2222bc451594",
+        "Brand": "ZONGSHEN",
+        "Model": "SPEX150",
+        "TheoricalConsumption": 40.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 3.17,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:20.458421"
+    },
+    {
+      "id": "c3f85c43-94b0-4a66-8016-840d690457bb_FORD_RANGER_7c6fda73-9474-4828-afac-efbb861a7eae_4ee9cad3-0999-443d-b956-b1d74df7dbc2",
+      "data": {
+        "IdVehicleType": "c3f85c43-94b0-4a66-8016-840d690457bb",
+        "Brand": "FORD",
+        "Model": "RANGER",
+        "TheoricalConsumption": 11.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "4ee9cad3-0999-443d-b956-b1d74df7dbc2",
+        "VolumeLimit": 21.13,
+        "Description": "Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:22.876735"
+    },
+    {
+      "id": "c3f85c43-94b0-4a66-8016-840d690457bb_HYUNDAI_H100 TRUCK_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c3f85c43-94b0-4a66-8016-840d690457bb",
+        "Brand": "HYUNDAI",
+        "Model": "H100 TRUCK",
+        "TheoricalConsumption": 9.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 17.17,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:24.198569"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_AUDI_Q3_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "AUDI",
+        "Model": "Q3",
+        "TheoricalConsumption": 12.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 15.85,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:25.438271"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_AUDI_Q7 3.6 FSI QUATTRO TIPTRONIC/20_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "AUDI",
+        "Model": "Q7 3.6 FSI QUATTRO TIPTRONIC/20",
+        "TheoricalConsumption": 8.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 26.42,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:26.686719"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_CHANGAN_CS35_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "CHANGAN",
+        "Model": "CS35",
+        "TheoricalConsumption": 14.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 13.21,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:27.963045"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_CHANGAN_CS15_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "CHANGAN",
+        "Model": "CS15",
+        "TheoricalConsumption": 15.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 11.89,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:29.449731"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_CHERY_TIGGO 4 PRO_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "CHERY",
+        "Model": "TIGGO 4 PRO",
+        "TheoricalConsumption": 14.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 13.21,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:30.830683"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_CHERY_TIGO 4 PRO_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "CHERY",
+        "Model": "TIGO 4 PRO",
+        "TheoricalConsumption": 14.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 13.21,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:32.147241"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_CHERY_TIGGO 7 PRO_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "CHERY",
+        "Model": "TIGGO 7 PRO",
+        "TheoricalConsumption": 12.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 15.85,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:33.472313"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_CHEVROLET_CAPTIVA_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "CHEVROLET",
+        "Model": "CAPTIVA",
+        "TheoricalConsumption": 11.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 15.06,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:34.812658"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_CHEVROLET_TRACKER_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "CHEVROLET",
+        "Model": "TRACKER",
+        "TheoricalConsumption": 14.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 12.87,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:37.212350"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_DFSK_GLORY_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "DFSK",
+        "Model": "GLORY",
+        "TheoricalConsumption": 10.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 14.27,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:38.602801"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_GEELY_OKAVANGO_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "GEELY",
+        "Model": "OKAVANGO",
+        "TheoricalConsumption": 10.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 18.49,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:40.250477"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_HONDA_CRV_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "HONDA",
+        "Model": "CRV",
+        "TheoricalConsumption": 12.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 14.8,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:41.738809"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_HYUNDAI_CRETA_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "HYUNDAI",
+        "Model": "CRETA",
+        "TheoricalConsumption": 14.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 13.73,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:43.034135"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_JETOUR_X70_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "JETOUR",
+        "Model": "X70",
+        "TheoricalConsumption": 10.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 15.9,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:44.473820"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_KIA_SONET_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "KIA",
+        "Model": "SONET",
+        "TheoricalConsumption": 14.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 11.88,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:45.722431"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_KIA_SELTOS_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "KIA",
+        "Model": "SELTOS",
+        "TheoricalConsumption": 14.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 12.83,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:47.015384"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_MAZDA_CX-30_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "MAZDA",
+        "Model": "CX-30",
+        "TheoricalConsumption": 14.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 12.1,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:48.243630"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_MAZDA_CX-3_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "MAZDA",
+        "Model": "CX-3",
+        "TheoricalConsumption": 13.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 12.68,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:49.503105"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_MAZDA_CX-5_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "MAZDA",
+        "Model": "CX-5",
+        "TheoricalConsumption": 12.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 14.8,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:51.733410"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_MG_MGXZ_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "MG",
+        "Model": "MGXZ",
+        "TheoricalConsumption": 12.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 13.21,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:53.093608"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_MITSUBISHI_ASX_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "MITSUBISHI",
+        "Model": "ASX",
+        "TheoricalConsumption": 12.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 15.32,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:54.533483"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_MITSUBISHI_MONTERO_7c6fda73-9474-4828-afac-efbb861a7eae_4ee9cad3-0999-443d-b956-b1d74df7dbc2",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "MITSUBISHI",
+        "Model": "MONTERO",
+        "TheoricalConsumption": 9.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "4ee9cad3-0999-443d-b956-b1d74df7dbc2",
+        "VolumeLimit": 21.66,
+        "Description": "Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:55.870253"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_MITSUBISHI_OUTLANDER_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "MITSUBISHI",
+        "Model": "OUTLANDER",
+        "TheoricalConsumption": 11.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 15.85,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:57.166958"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_NISSAN_XTRAIL_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "NISSAN",
+        "Model": "XTRAIL",
+        "TheoricalConsumption": 12.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 15.85,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:58.398736"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_NISSAN_KICKS_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "NISSAN",
+        "Model": "KICKS",
+        "TheoricalConsumption": 14.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 10.83,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:50:59.631931"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_NISSAN_X-TRAIL_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "NISSAN",
+        "Model": "X-TRAIL",
+        "TheoricalConsumption": 12.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 15.85,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:51:01.035210"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_PEU GEOT_5008_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "PEU GEOT",
+        "Model": "5008",
+        "TheoricalConsumption": 11.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 15.85,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:51:02.404212"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_RENAULT_DUSTER_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "RENAULT",
+        "Model": "DUSTER",
+        "TheoricalConsumption": 13.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 13.21,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:51:03.661763"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_SUBARU_FORESTER_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "SUBARU",
+        "Model": "FORESTER",
+        "TheoricalConsumption": 11.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 16.64,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:51:06.289157"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_SUBARU_CROSSFOX_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "SUBARU",
+        "Model": "CROSSFOX",
+        "TheoricalConsumption": 12.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 14.53,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:51:07.744577"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_SUBARU_XV_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "SUBARU",
+        "Model": "XV",
+        "TheoricalConsumption": 12.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 16.64,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:51:08.998287"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_SUZUKI_JIMMY_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "SUZUKI",
+        "Model": "JIMMY",
+        "TheoricalConsumption": 12.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 10.57,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:51:10.235249"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_TOYOTA_RUSH_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "TOYOTA",
+        "Model": "RUSH",
+        "TheoricalConsumption": 12.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 11.89,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:51:11.581898"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_TOYOTA_FORTUNER_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "TOYOTA",
+        "Model": "FORTUNER",
+        "TheoricalConsumption": 9.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 21.13,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:51:13.115509"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_TOYOTA_RAV 4_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "TOYOTA",
+        "Model": "RAV 4",
+        "TheoricalConsumption": 12.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 14.53,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:51:14.611681"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_TOYOTA_RAIZER_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "TOYOTA",
+        "Model": "RAIZER",
+        "TheoricalConsumption": 15.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 9.51,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:51:16.393806"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_TOYOTA_COROLLA CROSS_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "TOYOTA",
+        "Model": "COROLLA CROSS",
+        "TheoricalConsumption": 14.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 13.21,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:51:17.724112"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_TOYOTA_COROLLA CROSS HYBRID_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "TOYOTA",
+        "Model": "COROLLA CROSS HYBRID",
+        "TheoricalConsumption": 20.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 11.36,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:51:19.116259"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_TOYOTA_RAV4_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "TOYOTA",
+        "Model": "RAV4",
+        "TheoricalConsumption": 12.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 14.53,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:51:21.618880"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_VOLKSWAGEN_NIVUS_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "VOLKSWAGEN",
+        "Model": "NIVUS",
+        "TheoricalConsumption": 14.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 13.21,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:51:22.865104"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_VOLKSWAGEN_CROSSFOX_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "VOLKSWAGEN",
+        "Model": "CROSSFOX",
+        "TheoricalConsumption": 13.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 13.21,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:51:24.121457"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_VOLKSWAGEN_T-CROOS_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "VOLKSWAGEN",
+        "Model": "T-CROOS",
+        "TheoricalConsumption": 13.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 11.89,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:51:25.383645"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_FORD_EXPLORER_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "FORD",
+        "Model": "EXPLORER",
+        "TheoricalConsumption": 9.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 18.49,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:51:26.668731"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_HAVAL_NEW H6_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "HAVAL",
+        "Model": "NEW H6",
+        "TheoricalConsumption": 12.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 15.85,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:51:28.066567"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_JAC_JS8_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "JAC",
+        "Model": "JS8",
+        "TheoricalConsumption": 10.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 15.85,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:51:29.267337"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_JETOUR_DASHING_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "JETOUR",
+        "Model": "DASHING",
+        "TheoricalConsumption": 11.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 15.33,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:51:30.506292"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_MAZDA_CX-60_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "MAZDA",
+        "Model": "CX-60",
+        "TheoricalConsumption": 10.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 15.85,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:51:31.962596"
+    },
+    {
+      "id": "c52ce19e-405a-40f5-bf97-c36fe95b143e_SUBARU_CROSSTREK_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "c52ce19e-405a-40f5-bf97-c36fe95b143e",
+        "Brand": "SUBARU",
+        "Model": "CROSSTREK",
+        "TheoricalConsumption": 12.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 13.21,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:51:35.848680"
+    },
+    {
+      "id": "da06c6df-2a84-45da-9d86-1c23af5cfeea_JMC_GRAND AVENUE_7c6fda73-9474-4828-afac-efbb861a7eae_4ee9cad3-0999-443d-b956-b1d74df7dbc2",
+      "data": {
+        "IdVehicleType": "da06c6df-2a84-45da-9d86-1c23af5cfeea",
+        "Brand": "JMC",
+        "Model": "GRAND AVENUE",
+        "TheoricalConsumption": 9.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "4ee9cad3-0999-443d-b956-b1d74df7dbc2",
+        "VolumeLimit": 17.17,
+        "Description": "Diesel"
+      },
+      "processed_at": "2025-08-11T16:51:37.423368"
+    },
+    {
+      "id": "da06c6df-2a84-45da-9d86-1c23af5cfeea_TOYOTA_HIACE_7c6fda73-9474-4828-afac-efbb861a7eae_91a7b229-1ad0-479f-9984-7c7e2878822c",
+      "data": {
+        "IdVehicleType": "da06c6df-2a84-45da-9d86-1c23af5cfeea",
+        "Brand": "TOYOTA",
+        "Model": "HIACE",
+        "TheoricalConsumption": 9.0,
+        "IdCompany": "7c6fda73-9474-4828-afac-efbb861a7eae",
+        "IdFuelMaster": "91a7b229-1ad0-479f-9984-7c7e2878822c",
+        "VolumeLimit": 18.49,
+        "Description": "Premium Diesel"
+      },
+      "processed_at": "2025-08-11T16:51:38.991263"
+    }
+  ]
+}
